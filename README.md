@@ -1,4 +1,12 @@
-# covid-tracker-flask
+ The following is a project to track the number of covid-19 cases based on Flask and python .
+ The project find out the no. of cases in various state of India as well as different part of countries and further with help of graphs it enhance the readiablity of trend.
+ 
+ 
+ ## Requirements
+>
+> IMPORTANT
 
-hey this is a project for tracking covid-19 cases using flask and python .
-it uses various graph for enhanced comparison
+  flask
+  requests
+
+Use `pip install -r requirements.txt`to install the given requirements.
